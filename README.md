@@ -43,8 +43,8 @@ I'm always on the lookout for fun and challenging projects that can provide me w
 Let's connect! Whether you have a project in mind, need a team member, or just want to chat about tech, feel free to reach out.
 
 - **Email:** ruhanpotgieter7@gmail.com
-- **LinkedIn:** [[Your LinkedIn Profile] (Optional, but highly recommended for professional networking)](https://www.linkedin.com/in/ruhan-potgieter/)
-- **Twitter:** [Your Twitter Handle] (Optional, for more casual interactions and updates)
+- [**LinkedIn**] (https://www.linkedin.com/in/ruhan-potgieter/)
+
 
 ---
 
