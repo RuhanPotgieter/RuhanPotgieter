@@ -4,11 +4,12 @@
   -  Robotics
   -  Automation
   -  IOT
-## 🌱 I’m currently finishing my bachulars degree 
-  - ### **Degree:** Bachelors of Computing
+## 🌱 Education and Status
+  -  **Degree:** Bachelors of Computing 
+  -  **Status:** Doing Internship at SApower 
 ## 💞️ I’m looking to collaborate on fun projects for experience for real life work situations
 ## 📫 How to reach me
-  - ### **Email:** ruhanpotgieter7@gmail.com
+  -  **Email:** ruhanpotgieter7@gmail.com
 
 <!---
 RuhanPotgieter/RuhanPotgieter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
