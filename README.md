@@ -1,12 +1,12 @@
 # 👋 Hi, I’m @RuhanPotgieter
 ## 👀 I’m interested 
-  - ### Gaming
-  - ### Robotics
-  - ### Automation
-  - ### IOT
+  -  Gaming
+  -  Robotics
+  -  Automation
+  -  IOT
 ## 🌱 I’m currently finishing my bachulars degree 
   - ### **Degree:** Bachelors of Computing
-- 💞️ I’m looking to collaborate on fun projects for experience for real life work situations
+## 💞️ I’m looking to collaborate on fun projects for experience for real life work situations
 ## 📫 How to reach me
   - ### **Email:** ruhanpotgieter7@gmail.com
 
